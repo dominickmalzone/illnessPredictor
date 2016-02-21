@@ -6,9 +6,9 @@ analysis and machine learning.
 
 ![alt tag](http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/346/148/datas/gallery.jpg)
 
-Learn more about the project [Here](https://www.google.com)
+Learn more about the project [Here](https://www.dominickmalzone.com/project-clow.html)
 
-or check out the original repos
+Or check out the original repos
 
 [Clinic Side](https://github.com/chriswongtv/clow-clinic)
 
